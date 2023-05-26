@@ -1,0 +1,8 @@
+verson: '3.8'
+services:
+  pandora:
+    image: pengzhile/pandora
+    container_name: pandoraGPT
+    volumes:
+      - data-pandora:/data
+      
