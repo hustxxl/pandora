@@ -1,4 +1,5 @@
-verson: '3.8'
+version: '3.8'
+
 services:
   pandora:
     image: pengzhile/pandora
